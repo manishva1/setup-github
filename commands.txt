@@ -1,0 +1,19 @@
+to connect with github 
+     ' git config --global user.name "manishva1" '
+
+     ' git config --global user.email manishv9794@gmail.com '
+then we have to clone our account with our computer
+     ' git clone the https website'
+
+as soon as connection will be stablished we can read that folder anytime
+
+Now whatever file we have to upload we just have to follow the commands
+     ' git add filename'
+     
+     ' git stutus'
+
+and after adding file we have to commit our changes so
+     ' git commit -m "comments" filename '
+
+and then we will push the folder in github after commited file
+     ' git push -u origin master' 
